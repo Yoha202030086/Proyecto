@@ -1,0 +1,23 @@
+InicioCapicua
+ Definir nue,cnum,resul,d1,d2,d3.d4.d5 como entero
+ Escribir "Digite el numero";
+ leer num;
+
+ cnum=num
+ d5=cnum % 10;
+ cnum=cnum/10;
+ d4=cnum % 10;
+ cnum=cnum/10;
+ d3=cnum % 10;
+ cnum=cnum/10;
+ d2=cnum % 10;
+ cnum=cnum/10;
+ d1=cnum % 10;
+ cnum=cnum/10;
+ result= d1 + d2*10 + d3*10^2 + d4*10^3 + d5*10^4
+   si(resul = num)entonces
+  Escribir "El numero si es capicua";
+   SiNo
+  Escribir "El numero no es capicua";
+ FinSi
+FinCapicua
