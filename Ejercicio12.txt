@@ -1,0 +1,14 @@
+InicioTemperatura
+ 
+ var temperatura, 
+ var tempFinal
+    
+escribir "Ingresar la temperatura en Celsius"
+   
+ leer(temperatura)
+   
+ tempFinal=9/5(temperatura)+32
+    
+mostrar(temperatura en Fahrenheit es "tempFinal")
+
+FinTemperatura
