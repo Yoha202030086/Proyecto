@@ -1,0 +1,26 @@
+InicioDivision   
+ var numero1
+   
+ var numero2
+  
+ var division 
+ Escribir "Ingresar numero"
+    
+ leer(numero1)
+    
+ Escribir "Ingresar otro numero"
+    
+ leer(numero2)
+    
+ si(numero1/numero2=0)
+       
+ mostrar(numeros divisibles)
+   
+ sino
+      
+ mostrar(no se puede realizar division)
+    
+finsi
+
+Fin
+FinDivision 
