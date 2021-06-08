@@ -1,0 +1,31 @@
+InicioCilindro
+ var altura
+    
+ var radio
+  
+ var pi  
+ var volumen
+    
+ Escribir "Ingresar la altura del cilindro"
+   
+ leer(altura)
+    
+ Escribir "Ingesar el radio del cilindro"
+    
+ leer(radio)
+    
+ si(radio>0 & altura>0)
+       
+ volumen=pi*radio*radio*altura
+        
+mostrar(volumen del cilindro es "volumen")
+    
+sino
+       
+ mostrar(Los valores son negativos, ingrese nuevos valores para que se pueda realizar la operacion)
+    
+  
+  finsi
+
+Fin
+FinCilindro
