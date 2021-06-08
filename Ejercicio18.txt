@@ -1,0 +1,9 @@
+InicioDigitos 
+ Var digitos 
+ Escribir "Ingresar un numero"
+ leer(digitos<=4)
+ Escribir "El numero tiene digitos: ",total de digitos
+ suma= digito1+digito2+digito3+digito4
+  mostrar esultado
+FinDigitos
+
