@@ -1,0 +1,15 @@
+InicionNumeroMayor
+  Definir a,b como entero 
+  Escribir "Escribir dos números" 
+  leer(a,b)
+  si a == b entonces
+  Escribir "Los numeros son iguales"
+  siNo
+
+  si a > b entonces
+  Escribir "El numero mayor es: ",a
+  siNo
+  Escribir "El numero mayor es: ",b
+  FinSi
+ FinSi 
+FinNumeroMayor 
