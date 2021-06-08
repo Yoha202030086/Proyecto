@@ -1,0 +1,23 @@
+Inicio
+Numero  
+ var numero
+    
+ escribir"Ingresar un numero"
+    
+ leer(numero)
+
+ si (numero>0)
+        
+ mostrar(Es positivo)
+    
+ sino si(numero<0)
+        
+ mostrar(Es negativo)
+    
+ sino 
+        
+ mostrar(nulo)
+    
+ finsi
+Fin  
+FinNumeo  
