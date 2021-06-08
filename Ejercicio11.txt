@@ -1,0 +1,15 @@
+InicioValores
+ Definir valor, centimetros, yardas, metros, pies, pulgadas como real
+ Escribir "Ingresar valor en centimetros"
+ leer(centimetros) 
+  
+ yardas = valor/91.44
+ metros = valor/100
+ pies = valor*2.54/12
+ pulgadas = valor/2.54
+
+ Escribir yardas," centimetros convertidos en yardas es: ",yardas
+ Escribir metros," centimetros convertidos en metros es: ",metros
+ Escribir pies," centimetros convertidos en pies es: ",pies
+ Escribir pulgadas," centimetros convertidos en pulgadas es: ",pulgadas
+FinValores 
